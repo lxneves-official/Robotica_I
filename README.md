@@ -85,6 +85,7 @@
   <img src="https://github.com/user-attachments/assets/98415c8c-a2d7-4801-8e1c-5a3b9c402d90" alt="3 resistores" style="width: 70%; height: auto;">
 
 * Registre no campo "Observações" na planilha o que vocês puderam notar em relação a tensão aplicada nos resistores nas três montagens realizadas e suas respectivas correntes.
+* Entregue a planilha preenchida no Google Sala de Aula.
 
 
 
