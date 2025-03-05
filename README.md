@@ -20,10 +20,10 @@
 
   Vamos começar com a montagem da associação em série. Utilize a planilha abaixo para registra as leituras realizadas.
 
-<ins> **ASSOCIAÇÃO EM SÉRIE** </ins>
-  
 [Planilha](https://docs.google.com/spreadsheets/d/1bRkVXXet9EPN9hJuUQj8zpMFDouyfxOIH-QMVFfSBuU/copy)
 
+<ins> **ASSOCIAÇÃO EM SÉRIE** </ins>
+  
 * Faça a montagem do circuito abaixo:
 
 <!--![1 resistor](https://github.com/user-attachments/assets/0f47641c-46b6-4979-9f50-5290f91df1a3)-->
