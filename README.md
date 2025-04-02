@@ -26,3 +26,9 @@ Montar um circuito com 3 LED e utilizar o Arduino para controlar seus acionament
 * Faça com que o semáforo verde para pedestre pisque pelo menos duas vezes antes de ir para o vermelho.
 * Altere o código para o novo funcionamento.
 
+## Registro
+
+* Faça um relatório dessa atividade utilizando o modelo disponibilizado no Classroom.
+* Após finalizar a montagem e obter a validação do professor, faça o registro fotográfico do circuito desenvolvido e um vídeo apresentando o funcionamento conforme solicitado nas seções **_Processo_** e **_Desafio_**.
+* Adicione o registro dessa atividade e o relatório desenvolvido no seu portfólio.
+
